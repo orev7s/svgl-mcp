@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "svgl": {
+      "command": "node",
+      "args": ["/mnt/d/prjct/svgl/dist/index.js"]
+    }
+  }
+}

@@ -1,0 +1,1 @@
+i wanna build an mcp server for this specific api. [text](https://svgl.app/docs/api)
